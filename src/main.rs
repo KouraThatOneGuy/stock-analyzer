@@ -1,4 +1,3 @@
-// filepath: /Users/admin/Documents/stock-analyzer/src/main.rs
 use std::thread;
 use std::time::Duration;
 use std::vec::Vec;
