@@ -1,4 +1,4 @@
-use crate::ffi::moving_average;
+use crate:ffi::moving_average;
 use std::thread;
 use std::time::Duration;
 
